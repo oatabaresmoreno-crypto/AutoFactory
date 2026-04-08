@@ -57,9 +57,9 @@ La falta de materiales impacta directamente las órdenes de producción.
 Esto permite simular un entorno real de fábrica automotriz.
 
 ▶️ Instrucciones de Uso
-Registrar los componentes y materiales en el módulo de inventario.
-Asociar proveedores a los materiales disponibles.
-Crear o gestionar el inventario existente.
-Definir vehículos y órdenes de producción.
-Asignar empleados y líneas de producción.
-Ejecutar el proceso de ensamblaje utilizando los componentes disponibles.
+- Registrar los componentes y materiales en el módulo de inventario.
+- Asociar proveedores a los materiales disponibles.
+- Crear o gestionar el inventario existente.
+- Definir vehículos y órdenes de producción.
+- Asignar empleados y líneas de producción.
+- Ejecutar el proceso de ensamblaje utilizando los componentes disponibles.
