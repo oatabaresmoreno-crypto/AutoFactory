@@ -13,7 +13,9 @@ Controlar el uso de componentes durante el ensamblaje.
 Administrar inventario y materiales necesarios.
 Integrar proveedores dentro del flujo del sistema.
 Garantizar la disponibilidad de recursos para la producción.
+
 🧩 Estructura de Módulos
+
 ⚙️ MÓDULO 1: Gestión de Producción (Líneas de Producción)
 
 Este módulo se encarga de administrar todo el proceso productivo dentro de la fábrica.
